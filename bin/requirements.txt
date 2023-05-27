@@ -1,0 +1,13 @@
+discord==2.2.3
+pycord==0.1.1
+httpx==0.24.1
+colorama==0.4.6
+fore==0.1
+init==0.1.0
+fade==0.0.9
+getpass3==1.2
+datetime2==0.9.4
+requests==2.31.0
+random2==1.0.1
+tls-client==0.2.1
+Flask==2.3.2
