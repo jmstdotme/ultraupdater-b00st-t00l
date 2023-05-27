@@ -5,3 +5,7 @@ Original application: b00st t00l by Wolcer Shop. More info about that t00l in [W
 ## Important
 
 The antivirus can be threat this program as a virus but is a false positive. Depend of your antivirus, yo may to add a exception or disable temporaly. But this program is completly safe.
+
+## To relaunc
+
+If you want to relaunch the application again follow this go to `C:\ultraupdater\` and start `iniciar.bat`
